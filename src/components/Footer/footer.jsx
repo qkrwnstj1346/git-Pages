@@ -39,7 +39,7 @@ export default function Footer() {
               
               <span className="sep">|</span>
               
-              <span className="k">대표</span> 송태호
+              <span className="k">대표</span> 박준서
               
               <span className="sep">|</span>
               
@@ -59,16 +59,16 @@ export default function Footer() {
             
             <p>
               
-              <span className="k">개인정보관리책임자</span> 송태호
+              <span className="k">개인정보관리책임자</span> 박준서
               
               <span className="sep">|</span>
               
-              <span className="k">이메일</span> Taeho@wedding.com
+              <span className="k">이메일</span> Junseo@wedding.com
             </p>
           </div>
 
           
-          <p className="f-copy">© 2026 Taeho Wedding Co., Ltd. All rights reserved.</p>
+          <p className="f-copy">© 2026 Junseo Wedding Co., Ltd. All rights reserved.</p>
         </div>
       </div>
     </footer>
