@@ -24,7 +24,11 @@ function RedirectHandeler(){
     const params = new URLSearchParams(window.location.search);
     const redirect = params.get('redirect');
     if(redirect){
+<<<<<<< HEAD
       navigate(redirect.replace('/git-Pages',''),{replace: true})
+=======
+      navigate(redirect.replace('/semi-project-myself',''),{replace: true})
+>>>>>>> eeda39f7ef0c15474fa3b9b660c2492482e22460
     }//if
   },[]);
   return null;
